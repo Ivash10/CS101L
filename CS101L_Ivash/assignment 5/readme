@@ -1,0 +1,1 @@
+This program checks if the library card is valid and if valid it shows the department and the grade. I used digit check program functions where we have used loop functions to loop through each character of library card.
